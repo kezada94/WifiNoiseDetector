@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WifiNoiseDetector</string>
+    <string name="title_activity_get_data">GetDataActivity</string>
+</resources>
